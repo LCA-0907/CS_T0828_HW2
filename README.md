@@ -46,9 +46,12 @@ Follow the [instruction](https://github.com/AlexeyAB/darknet#how-to-compile-on-l
 Use `~/darknet$ make` command.
 ## Dataset Preparation
 ### Training and Testing Data
-Download directory `my` and put it under darknet.
-Put dataprecess.py under darknet.
-Put training and testing data in data directory, now the files should structured like this:
+* Download directory `my` and put it under darknet.
+* Download the pre-trained weights-file (162 MB): [yolov4.conv.137](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.conv.137) and put it in `my`
+* Put dataprecess.py under darknet.
+* Put training and testing data in data directory
+
+now the files should structured like this:
 ```
 darknet
     +- backup * models generated will be saved here*
