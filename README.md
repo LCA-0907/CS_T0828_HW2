@@ -1,7 +1,9 @@
 # CS_T0828_HW2
 
 Code for Selected Topics in Visual Recognition
-using Deep Learning(2020 Autumn) HW2
+using Deep Learning(2020 Autumn) HW2.
+
+This code is based on [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet), modified for [Street View House Numbers](https://drive.google.com/drive/u/1/folders/1Ob5oT9Lcmz7g5mVOcYH3QugA7tV3WsSl) training Data
 
 # Hardware
 The following specs were used to create the original solution.
